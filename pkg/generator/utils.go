@@ -10,7 +10,7 @@ import (
 	descriptor "google.golang.org/protobuf/types/descriptorpb"
 	"google.golang.org/protobuf/types/pluginpb"
 
-	gqlpb "github.com/danielvladco/go-proto-gql/pb"
+	gqlpb "github.com/togatv/go-proto-gql/graphql"
 )
 
 func GraphqlMethodOptions(opts proto.Message) *gqlpb.Rpc {
