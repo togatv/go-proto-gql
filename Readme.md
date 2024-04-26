@@ -32,10 +32,6 @@ Example:
 protoc --gql_out=paths=source_relative:. -I=. -I=./example/ ./example/*.proto
 ```
 
----
-
-See `/example` folder for more examples.
-
 ## Community:
 
 Will be very glad for any contributions so feel free to create issues, forks and PRs.
